@@ -6,9 +6,9 @@ Quaternions have been overcomplicated; betraying their inherent simplicity. The 
 This is the base 3D shape that is used. <br>
 Run the code yourself : https://github.com/90327k/Quaternions---The-Right-Tetrahedron-Model/blob/485450730c89791900267395f77e0ff2e80afec5/Base%20Visualisation
 
-# Quaternions visualised
+# Quaternions Visualised
 
-# Showcasing the bounds of Quaternions
+# Showcasing the Bounds of Quaternions - The Four Right Tetrahedron Cube
 
 # Why use a cube?
 Due to its harmonious nature. Four right-angled tetrahedrons fit seamlessly within and for good reason! To explain why we have to look at how the scalar (w) component interacts.

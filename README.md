@@ -4,7 +4,7 @@ Quaternions have been overcomplicated; betraying their inherent simplicity. The 
 # The Right Tetrahedron
 <img width="1008" height="795" alt="image" src="https://github.com/user-attachments/assets/e8b83a26-46ea-4cce-aa7e-6ed89f969c8e" />
 This is the base 3D shape that is used. 
-Run the code yourself : 
+/n Run the code yourself : https://github.com/90327k/Quaternions---The-Right-Tetrahedron-Model/blob/485450730c89791900267395f77e0ff2e80afec5/Base%20Visualisation
 
 # Quaternions visualised
 

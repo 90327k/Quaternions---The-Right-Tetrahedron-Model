@@ -49,9 +49,15 @@ A quaternion is written as: [ q = w + xi + yj + zk ]
 
 In this model:
 
-w = the pivot (rotation anchor, scalar part)
+`w` = the pivot (rotation anchor, scalar part)
 
-x, y, z = vector components (edges from w)
+`x, y, z` = vector components (edges from w)
+
+`i, j, k` = imaginary vector components (also edges from w)
+
+
+
+
 
 
 Rotations are described by: [ \cos(\theta/2) + \sin(\theta/2)(xi + yj + zk) ]

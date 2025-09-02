@@ -9,7 +9,7 @@ This project introduces a new **geometric model** — the **Right Tetrahedron Mo
 
 - Traditional teaching relies heavily on algebra, which hides the geometric simplicity of quaternions.
 - This model uses the **right tetrahedron** as the base shape to visualise quaternion components.
-- When four right tetrahedra are joined, they form a cube — representing the natural bounds of quaternion rotations.
+- When four right tetrahedra are joined, they form a *Quaternion Star* — representing the natural bounds of quaternion rotations.
 - The **scalar part (w)** acts as the *anchor of rotation* (rotation density), while **x, y, z** describe vector directions.
 
 > Quaternions are not 4D. They do however: use four dimensions to describe the third dimension.  

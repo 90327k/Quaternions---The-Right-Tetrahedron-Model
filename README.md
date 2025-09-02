@@ -14,7 +14,8 @@ https://github.com/90327k/Quaternions---The-Right-Tetrahedron-Model/blob/4854507
 Add a picture of a single right-tetrahedron here as well as a video of one rotating around W.
 
 # Visualising Quaternion Bounds
-<img width="1451" height="958" alt="image" src="https://github.com/user-attachments/assets/79076efa-57e1-4a83-806d-1817843d7405" />
+<img width="1459" height="963" alt="image" src="https://github.com/user-attachments/assets/289c81a0-75ab-4830-8992-5d7e634e4a49" />
+
 
 
 

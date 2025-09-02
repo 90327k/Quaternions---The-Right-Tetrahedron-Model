@@ -25,7 +25,7 @@ This project introduces a new **geometric model** — the **Right Tetrahedron Mo
 
 ---
 
-# Visualisations
+# The Visualisation Triad of Quaternion Fluency
 
 ### 1. Base Right Tetrahedron
 <img width="637" height="519" alt="image" src="https://github.com/user-attachments/assets/4f6155d6-4559-46e5-a279-f3ca078e2622" />

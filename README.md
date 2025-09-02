@@ -9,7 +9,7 @@ Run the code yourself : <br>
 https://github.com/90327k/Quaternions---The-Right-Tetrahedron-Model/blob/485450730c89791900267395f77e0ff2e80afec5/Base%20Visualisation
 
 # Quaternions Visualised
-
+Add a picture of a single right-tetrahedron here as well as a video of one rotating around W.
 # Showcasing the Bounds of Quaternions 
 <img width="508" height="389" alt="image" src="https://github.com/user-attachments/assets/8e084628-2d32-4e7a-b33c-65d1239db58f" />
 

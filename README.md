@@ -29,6 +29,8 @@ This project introduces a new **geometric model** — the **Right Tetrahedron Mo
 
 ### 1. Base Right Tetrahedron
 <img width="1008" height="795" alt="image" src="https://github.com/user-attachments/assets/9f79fd00-6ed6-42f6-89bf-18ab9703b297" />
+<img width="637" height="519" alt="image" src="https://github.com/user-attachments/assets/4f6155d6-4559-46e5-a279-f3ca078e2622" />
+
 
 
 ### 2. Quaternion Bounds / The Quaternion Star

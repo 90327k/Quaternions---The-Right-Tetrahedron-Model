@@ -12,7 +12,7 @@ This project introduces a new **geometric model** — the **Right Tetrahedron Mo
 - When eight tetrahedra are joined at a common pivot, they form the Quaternion Star — a geometric representation of the natural bounds of quaternion rotations.
 - The **scalar part (w)** acts as the *anchor of rotation* (rotation density), while **x, y, z** describe vector directions.
 
-> Quaternions are thought to be 4D. In reality they simply use four dimensions to describe the third dimension.  
+> Quaternions are thought to be 4D. In reality, they simply use four dimensions to describe the third dimension.  
 
 ---
 

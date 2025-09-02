@@ -16,7 +16,7 @@ Add a picture of a single right-tetrahedron here as well as a video of one rotat
 # Visualising Quaternion Bounds
 <img width="516" height="488" alt="image" src="https://github.com/user-attachments/assets/4183f3b9-dc00-4c02-b4bc-960395114488" /> <br>
 Run the code yourself : <br>
-
+https://github.com/90327k/Quaternions---The-Right-Tetrahedron-Model/blob/9ab1919ea119e95b57d8acd2686e9e727dba36d5/Quaternion%20Bounds%20Visualisation
 
 
 

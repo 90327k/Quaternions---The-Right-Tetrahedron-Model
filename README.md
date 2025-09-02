@@ -11,7 +11,7 @@ This project introduces a new **geometric model** — the **Right Tetrahedron Mo
 - When four right tetrahedra are joined, they form a cube — representing the natural bounds of quaternion rotations.
 - The **scalar part (w)** acts as the *anchor of rotation* (rotation density), while **x, y, z** describe vector directions.
 
-> Quaternions are not in 4D. They use 4D to describe 3D.  
+> Quaternions are not 4D. They do however: use the 4D to describe the 3D.  
 
 ---
 

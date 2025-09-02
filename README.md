@@ -16,7 +16,7 @@ This project introduces a new **geometric model** — the **Right Tetrahedron Mo
 
 ---
 
-# Core Idea
+# Core 
 
 - **Base unit:** A single right tetrahedron, with edges corresponding to `i, j, k`.
 - **Pivot point (w):** Acts as the scalar anchor of rotation (±180°).

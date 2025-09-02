@@ -55,7 +55,9 @@ In this model:
 
 `i, j, k` = imaginary vector components (imaginary edges from w)
 
-initially we have `x, y, z` the real vector components
+Initially `x, y, z` the real vector components
+
+Using the Right Tetrahedron Model - the edges from `w` are `x, y, z` this would represnt a rotation limit of 90
 
 by multiplying them with the rotation density `w` we can explore the `i, j, k` imaginary vector components
 

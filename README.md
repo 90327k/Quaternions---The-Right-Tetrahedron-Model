@@ -12,6 +12,12 @@ https://github.com/90327k/Quaternions---The-Right-Tetrahedron-Model/blob/4854507
 
 # Showcasing the Bounds of Quaternions 
 <img width="508" height="389" alt="image" src="https://github.com/user-attachments/assets/8e084628-2d32-4e7a-b33c-65d1239db58f" />
+<img width="507" height="370" alt="image" src="https://github.com/user-attachments/assets/85b529ea-fd80-406a-9e51-43c23a1730b0" />
+<img width="386" height="323" alt="image" src="https://github.com/user-attachments/assets/ed7eba4b-16c9-4571-9c2c-6c8e9deb85c6" />
+<img width="544" height="451" alt="image" src="https://github.com/user-attachments/assets/77971c99-58e7-4b71-8d6a-8813de3ac321" />
+
+
+
 
 
 

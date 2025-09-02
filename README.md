@@ -55,7 +55,9 @@ In this model:
 
 `i, j, k` = imaginary vector components (imaginary edges from w)
 
-we start of with `x, y, z` real vector components but by multiplying by the rotation density we can explore the `i, j, k` imaginary vector components
+initially we have `x, y, z` the real vector components
+
+by multiplying them with the rotation density `w` we can explore the `i, j, k` imaginary vector components
 
 
 

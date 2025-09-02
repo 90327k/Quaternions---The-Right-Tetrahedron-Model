@@ -28,13 +28,12 @@ This project introduces a new **geometric model** — the **Right Tetrahedron Mo
 # Visualisations
 
 ### 1. Base Right Tetrahedron
-![Base Tetrahedron](media/tetrahedron.png)
+https://github.com/90327k/Quaternions---The-Right-Tetrahedron-Model/blob/6b6b09bb07aa7ec38e39e035178836f5bb2b9ed5/Visualisations/base_3Dshape/README.md
 
-### 2. Quaternion Bounds
-![Quaternion Bounds](media/cube_from_tetrahedra.png)
+### 2. Quaternion Bounds 
+https://github.com/90327k/Quaternions---The-Right-Tetrahedron-Model/blob/6b6b09bb07aa7ec38e39e035178836f5bb2b9ed5/Visualisations/Quaternion-Bounds-Visualisation/README.md
 
 ### 3. Rotating Around W
-![Rotation](media/rotating_tetrahedron.gif)
 
 All visualisations are generated using Python and `matplotlib`.
 

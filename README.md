@@ -1,23 +1,63 @@
-# Quaternions---The-Right-Tetrahedron-Model
-Quaternions have been overcomplicated; betraying their inherent simplicity.
-By integrating my geometric model into quaternion pedagogy it will allow students to gain novel insight within the domain. <br> <br>
-**all models made in python unless stated otherwise**
-# The Right Tetrahedron
-<img width="1008" height="795" alt="image" src="https://github.com/user-attachments/assets/e8b83a26-46ea-4cce-aa7e-6ed89f969c8e" />
-This is the base 3D shape that is used. <br>
+# The Right Tetrahedron Model of Quaternion Visualisation
 
-# Quaternions Visualised
-Add a picture of a single right-tetrahedron here as well as a video of one rotating around W.
+Quaternions are often taught in a way that makes them seem abstract and overcomplicated.  
+This project introduces a new **geometric model** — the **Right Tetrahedron Model** — that simplifies quaternion visualisation and makes their structure more intuitive.
 
-# Visualising Quaternion Bounds
-<img width="516" height="488" alt="image" src="https://github.com/user-attachments/assets/4183f3b9-dc00-4c02-b4bc-960395114488" /> <br>
+---
 
-# Explanation
-Essentially the W dimension is the rotation density. Kind of similar to how you rotate around a point, because it does exactly that, except that its not a full 360 degrees, rather its been halved, into two parts, one 180 degrees and the other -180, or 1 and -1, 
+## 🚀 Why This Matters
+- Traditional teaching relies heavily on algebra, which hides the geometric simplicity of quaternions.
+- This model uses the **right tetrahedron** as the base shape to visualise quaternion components.
+- When four right tetrahedra are joined, they form a cube — representing the natural bounds of quaternion rotations.
+- The **scalar part (w)** acts as the *anchor of rotation* (rotation density), while **x, y, z** describe vector directions.
 
-where x y z are vectors, w is the scalar component. 
+> Quaternions are not in 4D. They use 4D to describe 3D.  
 
-0.5, 1, -0.5, -1 
+---
+
+## 🌀 Core Idea
+- **Base unit:** A single right tetrahedron, with edges corresponding to `i, j, k`.
+- **Pivot point (w):** Acts as the scalar anchor of rotation (±180°).
+- **Cube bounds:** Four tetrahedra form a cube, visualising the limits of quaternion space.
+- **Hypersphere analogy:** The full quaternion field can be seen as a 4D hypersphere, with `w` as rotation density and `xyz` as vector directions.
+
+---
+
+## 📷 Visualisations
+### 1. Base Right Tetrahedron
+![Base Tetrahedron](media/tetrahedron.png)
+
+### 2. Quaternion Bounds
+![Quaternion Bounds](media/cube_from_tetrahedra.png)
+
+### 3. Rotating Around W
+![Rotation](media/rotating_tetrahedron.gif)
+
+All visualisations are generated using Python and `matplotlib`.
+
+
+
+---
+
+🔬 Explanation
+
+A quaternion is written as: [ q = w + xi + yj + zk ]
+
+In this model:
+
+w = the pivot (rotation anchor, scalar part)
+
+x, y, z = vector components (edges from w)
+
+
+Rotations are described by: [ \cos(\theta/2) + \sin(\theta/2)(xi + yj + zk) ]
+
+The tetrahedron visualises these relationships directly.
+
+
+
+---
+
 
 # License
 This quaternion visualization model was created by Mueed Malik (2025).

@@ -11,7 +11,7 @@ https://github.com/90327k/Quaternions---The-Right-Tetrahedron-Model/blob/4854507
 # Quaternions Visualised
 
 # Showcasing the Bounds of Quaternions - The Four Right Tetrahedron Cube
-
+*No idea why AI trips out when visualising this*
 # Why use a cube?
 Due to its harmonious nature. Four right-angled tetrahedrons fit seamlessly within and for good reason! To explain why we have to look at how the scalar (w) component interacts.
 

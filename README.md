@@ -45,22 +45,26 @@ All visualisations are generated using Python and `matplotlib`.
 ---
 # Explanation
 
-A quaternion is written as: [ q = w + xi + yj + zk ]
+A quaternion is written as: `[ q = w + xi + yj + zk ]`
 
 In this model:
 
 `w` = the pivot (rotation anchor, scalar part)
 
-`x, y, z` = vector components (edges from w)
+`x, y, z` = real vector components (real edges from w)
 
-`i, j, k` = imaginary vector components (also edges from w)
+`i, j, k` = imaginary vector components (imaginary edges from w)
 
-
-
-
+we start of with `x, y, z` real vector components but by multiplying by the rotation density we can explore the `i, j, k` imaginary vector components
 
 
-Rotations are described by: [ \cos(\theta/2) + \sin(\theta/2)(xi + yj + zk) ]
+
+
+
+
+
+
+Rotations are described by: `[ \cos(\theta/2) + \sin(\theta/2)(xi + yj + zk) ]`
 
 The tetrahedron visualises these relationships directly.
 

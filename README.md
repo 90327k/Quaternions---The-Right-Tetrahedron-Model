@@ -16,6 +16,8 @@ Add a picture of a single right-tetrahedron here as well as a video of one rotat
 # Showcasing the Bounds of Quaternions 
 <img width="508" height="389" alt="image" src="https://github.com/user-attachments/assets/8e084628-2d32-4e7a-b33c-65d1239db58f" />
 
+8 Right-Tetrahedrons: the top 4 represent +1 from the y axis, the bottom 4 represent -1 from the y axis.
+
 # Explanation
 Essentially the W dimension is the rotation density. Kind of similar to how you rotate around a point, because it does exactly that, except that its not a full 360 degrees, rather its been halved, into two parts, one 180 degrees and the other -180, or 1 and -1, 
 

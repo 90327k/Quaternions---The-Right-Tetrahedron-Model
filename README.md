@@ -28,10 +28,12 @@ This project introduces a new **geometric model** — the **Right Tetrahedron Mo
 # Visualisations
 
 ### 1. Base Right Tetrahedron
-https://github.com/90327k/Quaternions---The-Right-Tetrahedron-Model/blob/6b6b09bb07aa7ec38e39e035178836f5bb2b9ed5/Visualisations/base_3Dshape/README.md
+<img width="1008" height="795" alt="image" src="https://github.com/user-attachments/assets/9f79fd00-6ed6-42f6-89bf-18ab9703b297" />
 
-### 2. Quaternion Bounds 
-https://github.com/90327k/Quaternions---The-Right-Tetrahedron-Model/blob/6b6b09bb07aa7ec38e39e035178836f5bb2b9ed5/Visualisations/Quaternion-Bounds-Visualisation/README.md
+
+### 2. Quaternion Bounds / The Quaternion Star
+<img width="516" height="488" alt="image" src="https://github.com/user-attachments/assets/c65ed8d5-2b1b-4500-9189-0a4912cf4af5" />
+
 
 ### 3. Rotating Around W
 

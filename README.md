@@ -5,7 +5,8 @@ This project introduces a new **geometric model** — the **Right Tetrahedron Mo
 
 ---
 
-## 🚀 Why This Matters
+# Why This Matters
+
 - Traditional teaching relies heavily on algebra, which hides the geometric simplicity of quaternions.
 - This model uses the **right tetrahedron** as the base shape to visualise quaternion components.
 - When four right tetrahedra are joined, they form a cube — representing the natural bounds of quaternion rotations.
@@ -15,15 +16,17 @@ This project introduces a new **geometric model** — the **Right Tetrahedron Mo
 
 ---
 
-## 🌀 Core Idea
+# Core Idea
+
 - **Base unit:** A single right tetrahedron, with edges corresponding to `i, j, k`.
 - **Pivot point (w):** Acts as the scalar anchor of rotation (±180°).
-- **Cube bounds:** Four tetrahedra form a cube, visualising the limits of quaternion space.
+- **Quaternion bounds:** Four tetrahedra conjoined at `w` , visualising the limits of quaternion space.
 - **Hypersphere analogy:** The full quaternion field can be seen as a 4D hypersphere, with `w` as rotation density and `xyz` as vector directions.
 
 ---
 
-## 📷 Visualisations
+# Visualisations
+
 ### 1. Base Right Tetrahedron
 ![Base Tetrahedron](media/tetrahedron.png)
 
@@ -38,8 +41,7 @@ All visualisations are generated using Python and `matplotlib`.
 
 
 ---
-
-🔬 Explanation
+# Explanation
 
 A quaternion is written as: [ q = w + xi + yj + zk ]
 

@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-authors:
+author:
 - family-names: "Malik"
   given-names: "Mueed"
 title: "Quaternions---The-Right-Tetrahedron-Model"

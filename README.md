@@ -55,7 +55,7 @@ In this model:
 
 `i, j, k` = imaginary vector components (imaginary edges from w)
 
-Initially `x, y, z` the real vector components
+Initially `x, y, z` the only vector components
 
 Using the Right Tetrahedron Model - the edges from `w` are `x, y, z` this would represnt a rotation limit of 90
 

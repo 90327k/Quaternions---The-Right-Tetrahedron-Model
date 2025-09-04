@@ -20,7 +20,7 @@ This project introduces a new **geometric model** — the **Right Tetrahedron Mo
 
 - **Base unit:** A single right tetrahedron, with edges corresponding to `i, j, k`.
 - **Pivot point (w):** Acts as the scalar anchor of rotation (±180°).
-- **Quaternion bounds:** Four tetrahedra conjoined at `w` , visualising the limits of quaternion space.
+- **Quaternion bounds:** Eight tetrahedra conjoined at `w` , visualising the limits of quaternion space.
 - **Hypersphere analogy:** The full quaternion field can be seen as a 4D hypersphere, with `w` as rotation density and `xyz` as vector directions.
 
 ---

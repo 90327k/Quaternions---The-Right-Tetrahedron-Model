@@ -38,6 +38,8 @@ This project introduces a new **geometric model** — the **Right Tetrahedron Mo
 
 ### 3. Rotating Around W
 
+https://youtu.be/EumXnFZXhr4?si=hVrWm-AxOX7mnUb0
+
 All visualisations are generated using Python and `matplotlib`.
 
 

@@ -10,7 +10,7 @@ This project introduces a new **geometric model** — the **Right Tetrahedron Mo
 - Traditional teaching relies heavily on algebra, which hides the geometric simplicity of quaternions.
 - This model uses the **right tetrahedron** as the base shape to visualise quaternion components.
 - When eight tetrahedra are joined at the common pivot, they form the **Quaternion Star** — a geometric representation of the natural bounds of quaternion rotations.
-- To simulate every possible rotation, a hypersphere is used -- where the Right Tetrahedron defines a fundamental cell of rotation space. **Quaternion Hypersphere**
+- **The Quaternion Hypersphere** : To simulate every possible rotation, a hypersphere is used -- where the Right Tetrahedron defines a fundamental cell of rotation space. 
 - The **scalar part (w)** acts as the *anchor of rotation* (rotation density), while **x, y, z** describe vector directions.
 
 > Quaternions are thought to be 4D. In reality, they simply use four dimensions to describe the third dimension.  

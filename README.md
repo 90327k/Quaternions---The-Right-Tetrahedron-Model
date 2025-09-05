@@ -36,11 +36,13 @@ This project introduces a new **geometric model** — the **Right Tetrahedron Mo
 <img width="516" height="488" alt="image" src="https://github.com/user-attachments/assets/c65ed8d5-2b1b-4500-9189-0a4912cf4af5" />
 
 
-### 3. Rotating Around W
+### Rotating Around W
 
 https://youtu.be/EumXnFZXhr4?si=hVrWm-AxOX7mnUb0
 
 All visualisations are generated using Python and `matplotlib`.
+
+### The Quaternion Hypersphere
 
 
 
@@ -57,23 +59,9 @@ In this model:
 
 `i, j, k` = imaginary vector components (imaginary edges from w)
 
-Initially `x, y, z` the only vector components
-
-Using the Right Tetrahedron Model - the edges from `w` are `x, y, z` this would represnt a rotation limit of 90
-
-by multiplying them with the rotation density `w` we can explore the `i, j, k` imaginary vector components
-
-
-
-
-
-
-
-
 Rotations are described by: `[ \cos(\theta/2) + \sin(\theta/2)(xi + yj + zk) ]`
 
 The tetrahedron visualises these relationships directly.
-
 
 
 ---

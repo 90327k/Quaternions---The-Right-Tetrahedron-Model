@@ -38,7 +38,7 @@ This project introduces a new **geometric model** — the **Right Tetrahedron Mo
 
 ### Rotating Around W
 
-https://youtu.be/EumXnFZXhr4?si=hVrWm-AxOX7mnUb0
+<iframe width="1316" height="740" src="https://www.youtube.com/embed/EumXnFZXhr4" title="2025 09 05 01 06 55 The Quaternion Star" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 All visualisations are generated using Python and `matplotlib`.
 

@@ -44,9 +44,8 @@ https://www.youtube.com/embed/EumXnFZXhr4
 All visualisations are generated using Python and `matplotlib`.
 
 ### The Quaternion Hypersphere
-<img width="1214" height="893" alt="image" src="https://github.com/user-attachments/assets/df45a78f-5de5-4cc0-9ca0-22af3caa3461" />
 
-
+**COMING SOON**
 
 
 ---
